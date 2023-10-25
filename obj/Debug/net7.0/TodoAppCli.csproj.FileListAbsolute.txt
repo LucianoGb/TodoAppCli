@@ -1,0 +1,17 @@
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.csproj.AssemblyReference.cache
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.AssemblyInfoInputs.cache
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.AssemblyInfo.cs
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.csproj.CoreCompileInputs.cache
+C:\Estudo\TodoAppCli\bin\Debug\net7.0\TodoAppCli.exe
+C:\Estudo\TodoAppCli\bin\Debug\net7.0\TodoAppCli.deps.json
+C:\Estudo\TodoAppCli\bin\Debug\net7.0\TodoAppCli.runtimeconfig.json
+C:\Estudo\TodoAppCli\bin\Debug\net7.0\TodoAppCli.dll
+C:\Estudo\TodoAppCli\bin\Debug\net7.0\TodoAppCli.pdb
+C:\Estudo\TodoAppCli\bin\Debug\net7.0\ConsoleTables.dll
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.csproj.CopyComplete
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.dll
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\refint\TodoAppCli.dll
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.pdb
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\TodoAppCli.genruntimeconfig.cache
+C:\Estudo\TodoAppCli\obj\Debug\net7.0\ref\TodoAppCli.dll
