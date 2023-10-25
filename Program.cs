@@ -43,7 +43,7 @@ void CadastrarTarefa()
     string descricao = Console.ReadLine()!;
     Thread.Sleep(1000);
     tarefa.AdicionarTarefa(descricao);
-    Console.WriteLine("Tarefa cadastrada com sucesso!");
+    Console.WriteLine("Tarefa cadastrada com sucesso! ");
     Thread.Sleep(1000);
     ChamaPrograma();
 
